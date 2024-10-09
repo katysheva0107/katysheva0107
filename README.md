@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Natali!
+### Now I'm learning to do something worthwhile 💻
 
 <!--
 **katysheva0107/katysheva0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
